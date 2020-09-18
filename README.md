@@ -1,9 +1,6 @@
 # Data-Science
 
-This is a repository dedicated to all the data science related courses taken at UQ. 
-
-It is a collation that includes my projects and course notes from various information systems courses:
-
+This repository is a collation of my projects and course notes from the subsequent data science courses:
 
 ~~~~SQL
 INFS1200: Introduction to Information Systems
